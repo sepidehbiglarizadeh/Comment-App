@@ -1,6 +1,8 @@
+import CommentsList from "../Comments/CommentsList/CommentsList";
+
 const HomePage = () => {
     return ( 
-        <div>This is HomePage</div>
+        <CommentsList/>
      );
 }
  
